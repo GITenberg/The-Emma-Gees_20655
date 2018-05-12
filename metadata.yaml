@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9445'
     url: http://www.gutenberg.org/2009/agents/9445
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20655#The-Emma-Gees
 gutenberg_issued: '2007-02-24'
 gutenberg_type: Text
 identifiers:
