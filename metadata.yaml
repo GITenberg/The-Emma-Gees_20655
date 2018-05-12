@@ -1,0 +1,26 @@
+_repo: The-Emma-Gees_20655
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McBride, Herbert W.
+    alias: McBride, Herbert Wes
+    gutenberg_agent_id: '9445'
+    url: http://www.gutenberg.org/2009/agents/9445
+description: ''
+gutenberg_issued: '2007-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20655'
+  lccn: '18014837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+title: The Emma Gees
+url: http://www.gutenberg.org/ebooks/20655
